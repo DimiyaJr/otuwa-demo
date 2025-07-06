@@ -11,7 +11,7 @@ const Checkout = () => {
       {/* Logo and Title */}
       <div className="text-center mb-4">
         <img
-          src="/logo.jpg"
+          src={`${process.env.PUBLIC_URL}/logo.jpg`}
           alt="OtuwaDeals Logo"
           style={{ height: '60px', width: 'auto', marginBottom: '10px' }}
         />

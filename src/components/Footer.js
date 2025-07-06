@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-6 mb-3 text-center text-md-start">
             <img
-              src="/logo.jpg"
+              src={`${process.env.PUBLIC_URL}/logo.jpg`}
               alt="OtuwaDeals Logo"
               style={{ height: '50px', width: 'auto', marginBottom: '10px' }}
             />
