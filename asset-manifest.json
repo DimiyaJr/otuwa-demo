@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/otuwa-deals/static/css/main.fe9a0747.css",
+    "main.js": "/otuwa-deals/static/js/main.85602359.js",
+    "static/js/453.25225e7f.chunk.js": "/otuwa-deals/static/js/453.25225e7f.chunk.js",
+    "index.html": "/otuwa-deals/index.html",
+    "main.fe9a0747.css.map": "/otuwa-deals/static/css/main.fe9a0747.css.map",
+    "main.85602359.js.map": "/otuwa-deals/static/js/main.85602359.js.map",
+    "453.25225e7f.chunk.js.map": "/otuwa-deals/static/js/453.25225e7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9a0747.css",
+    "static/js/main.85602359.js"
+  ]
+}
