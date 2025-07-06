@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container d-flex align-items-center justify-content-between py-2">
         <Link to="/" className="text-decoration-none d-flex align-items-center">
           <img
-            src="/logo.jpg"
+            src={`${process.env.PUBLIC_URL}/logo.jpg`}
             alt="OtuwaDeals Logo"
             style={{ height: '50px', width: 'auto', marginRight: '10px' }}
           />
